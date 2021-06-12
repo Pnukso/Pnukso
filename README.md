@@ -1,10 +1,9 @@
 ### Hi there, I'm Pnukso👋
 
 ## Hobbyist  developer
-- 📖 I'm learning C# and Python!
-- 🚧 Now I'm working on secret indie game [project_fur]
+- 📖 I'm learning C#
 - 🧉 I'd love to collab with someone!
-- 🎮My favorite game is Portal 2 ^^
+- 🎮My favorite game is Half-Life Alyx & Portal 2 ^^
 
 ### Find me somewhere else:
 [<img align="left" alt="@Pnukso | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,5 +16,4 @@
 
 
 [twitter]: https://twitter.com/Pnukso
-[instagram]: https://instagram.com/Pnukso
 [youtube]: https://www.youtube.com/channel/UCRCnl2_RcJ97WMwuQIYt2Ow
