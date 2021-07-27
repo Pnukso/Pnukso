@@ -16,3 +16,9 @@
 
 [twitter]: https://twitter.com/Pnukso
 [youtube]: https://www.youtube.com/channel/UCRCnl2_RcJ97WMwuQIYt2Ow
+
+       /\   /\
+      / \\_// \
+      \ / | \ /
+        \ | /
+         \|/
