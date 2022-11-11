@@ -1,6 +1,6 @@
 ### Hi there, I'm Pnukso👋
 
-## Hobbyist  developer
+## Software Engineering Student 
 - 📖 I'm learning C#
 - 🧉 I'd love to collab with someone!
 - 🎮My favorite game is Half-Life Alyx & Portal 2 ^^
