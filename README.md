@@ -1,3 +1,5 @@
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Pnukso.Pnukso)
+<a href="mailto:ernestfengier@gmail.com">!ernestfengier@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 ### Hi there, I'm Pnukso👋
 
 ## Software Engineering Student 
