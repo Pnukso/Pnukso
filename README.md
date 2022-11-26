@@ -2,7 +2,7 @@
 ### Hi there, I'm Pnukso👋
 
 ## Software Engineering Student 
-- 📖 I'm learning C#
+- 📖 I'm learning C#,C++,Java
 - 🧉 I'd love to collab with someone!
 - 🎮My favorite game is Half-Life Alyx & Portal 2 ^^
 
@@ -17,9 +17,3 @@
 
 [twitter]: https://twitter.com/Pnukso
 [youtube]: https://www.youtube.com/channel/UCRCnl2_RcJ97WMwuQIYt2Ow
-
-       /\   /\
-      / \\_// \
-      \ / | \ /
-        \ | /
-         \|/
